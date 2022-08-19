@@ -1,0 +1,13 @@
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-1-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-5-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-6-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-first.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/hande-retreat.jpg");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-3-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-4-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-1-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-5-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-6-1.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-first.png");
+background-image: url("https://useinsider.com/assets/media/2021/05/hande-retreat.jpg");
+background-image: url("https://useinsider.com/assets/media/2021/05/life-at-insider-3-1.png");

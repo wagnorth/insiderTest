@@ -1,0 +1,58 @@
+Indianapolis
+US
+Sao Paulo
+Brazil
+London
+United Kingdom
+Paris
+France
+Amsterdam
+Netherlands
+Barcelona
+Spain
+Helsinki
+Finland
+Warsaw
+Poland
+Kiev
+Ukraine
+Moscow
+Russia
+Sydney
+Australia
+Dubai
+United Arab Emirates
+Tokyo
+Japan
+Seoul
+Korea
+Hong Kong
+China
+Singapore
+Singapore
+Bangkok
+Thailand
+Jakarta
+Indonesia
+Taipei
+Taiwan
+Manila
+Philippines
+Kuala Lumpur
+Malaysia
+Ho Chi Minh City
+Vietnam
+Istanbul
+Turkey
+Ankara
+Turkey
+Mexico City
+Mexico
+Lima
+Peru
+Buenos Aires
+Argentina
+Bogota
+Colombia
+Santiago
+Philippines
