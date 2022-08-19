@@ -1,0 +1,1 @@
+- Proje'de Java 18.0.2 kullanılmıştır.
